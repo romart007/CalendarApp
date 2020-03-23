@@ -1,8 +1,8 @@
-git clone repo
-pull updates from branch 'beta'
-create .env file - copy .env.example
-update .env - set database credentials
-composer install
-npm install
-npm run dev
-php artisan serve
+<p>git clone repo</p>
+<p>pull updates from branch 'beta' </p>
+<p>create .env file - copy .env.example</p>
+<p>update .env - set database credentials </p>
+<p>composer install </p>
+<p>npm install </p>
+<p>npm run dev </p>
+<p>php artisan serve</p>
